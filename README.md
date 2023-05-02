@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md Khabiruddin
-- 👀 I’m interested in Software Development in PHP, Codeigniter,React etc
+- 👀 I’m interested in Software Development in PHP, Codeigniter,React etc.
 - 🌱 I’m currently learning Laravel, React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Git hub
 - 📫 How to reach me khabir.dn@gmail.com
 
 <!---
